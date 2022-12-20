@@ -1,16 +1,16 @@
-### Hi there 👋
+👋 Hi, I'm Neel Jivani.🧔‍♂️
 
-<!--
-**Neel2603/Neel2603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• 22, Full stack developer.
 
-Here are some ideas to get you started:
+• 👨‍💻 I’m currently working on, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+• 🌱 I’m currently learning threejs, spline, nextjs.</n>
+
+• 👯 I’m looking to collaborate on web development.</n>
+
+• 💬 Ask me about anything
+
+<a href='https://www.linkedin.com/in/neel-jivani-89b9a8148/'>![5296501_linkedin_network_linkedin logo_icon](https://user-images.githubusercontent.com/53113741/208675236-8cbe1d57-e3bc-44e8-97bd-8b21d78bfa09.png)</a>
