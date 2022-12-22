@@ -1,6 +1,6 @@
 👋 Hi, I'm Neel Jivani.🧔‍♂️
 
-• 22, Full stack developer.
+• 22, web developer.
 
 ![ProgrammerCycleGIF](https://user-images.githubusercontent.com/53113741/209103074-3ffab3db-14f2-4bd4-9ee1-032b5b290a70.gif)
 
