@@ -10,7 +10,7 @@
   - 🌱 I’m currently learning <b> threejs, spline, nextjs, veujs.</b>
   - 👯 I’m looking to collaborate on web development.
   - 📫 How to reach me: <a href='https://www.linkedin.com/in/neel-jivani-89b9a8148/'>LinkedIn</a> or <a href="mailto:neeljivani26@gmail.com">Gmail</a>
-  - ⚡ Fun fact: I love to listen music while coding! 
+
   
 
 ![1297046_code_compilator_css_design_sass_icon](https://user-images.githubusercontent.com/53113741/209101392-9655b106-c016-4ae6-968d-6a28e30a4f02.png)
