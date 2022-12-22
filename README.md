@@ -2,14 +2,11 @@
 
 • 22, Full stack developer.
 
-• 👨‍💻 I’m currently working on, 
+• 👨‍💻 I’m currently working on ReactJS, NodeJS, ExpressJS, MongoDB, CSS, HTML, Bootstrap, SCSS, Firebase.  
 
+• 🌱 I’m currently learning threejs, spline, nextjs.
 
-
-
-• 🌱 I’m currently learning threejs, spline, nextjs.</n>
-
-• 👯 I’m looking to collaborate on web development.</n>
+• 👯 I’m looking to collaborate on web development.
 
 • 💬 Ask me about anything
 
