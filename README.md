@@ -2,6 +2,9 @@
 
 • 22, Full stack developer.
 
+![ProgrammerCycleGIF](https://user-images.githubusercontent.com/53113741/209103074-3ffab3db-14f2-4bd4-9ee1-032b5b290a70.gif)
+
+
 • 👨‍💻 I’m currently working on <b> ReactJS, NodeJS, ExpressJS, MongoDB, CSS, HTML, Bootstrap, SCSS, Firebase. </b>  
 
 • 🌱 I’m currently learning <b> threejs, spline, nextjs.</b>
