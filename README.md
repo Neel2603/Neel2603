@@ -9,7 +9,7 @@
   - 🔭 I’m currently working on <b> ReactJS, NodeJS, ExpressJS, MongoDB, CSS, HTML, Bootstrap, SCSS, Firebase. </b> 
   - 🌱 I’m currently learning <b> threejs, spline, nextjs, veujs.</b>
   - 👯 I’m looking to collaborate on web development.
-  - 📫 How to reach me: <a href='https://www.linkedin.com/in/neel-jivani-89b9a8148/'>LinkedIn</a> or <a href="neeljivani26@gmail.com">Gmail</a>
+  - 📫 How to reach me: <a href='https://www.linkedin.com/in/neel-jivani-89b9a8148/'>LinkedIn</a> or <a href="mailto:neeljivani26@gmail.com">Gmail</a>
   - ⚡ Fun fact: I love to listen music while coding! 
   
 
