@@ -1,6 +1,6 @@
 ## Hey 👋, This is Neel Jivani.
 [![Gmail Badge](https://img.shields.io/badge/-neeljivani26@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:neeljivani26@gmail.com)](mailto:neeljivani26@gmail.com) 
- [![Linkedin Badge](https://img.shields.io/badge/-neeljivani-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neel-jivani-89b9a8148/)](https://www.linkedin.com/in/neel-jivani-89b9a8148/)  [![Github Badge](https://img.shields.io/badge/-neeljivani-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Neel2603/)](https://www.github.com/Neel2603/)  [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://raviagheda.github.io//)](https://raviagheda.github.io//) 
+ [![Linkedin Badge](https://img.shields.io/badge/-neeljivani-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neel-jivani-89b9a8148/)](https://www.linkedin.com/in/neel-jivani-89b9a8148/)  [![Github Badge](https://img.shields.io/badge/-neeljivani-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Neel2603/)](https://www.github.com/Neel2603/)  [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://next-portfolio-neel2603.vercel.app)](https://next-portfolio-neel2603.vercel.app/) 
 <p align='left'>
   I'm a MERN Stack Web Developer
   
