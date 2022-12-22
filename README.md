@@ -1,20 +1,17 @@
-👋 Hi, I'm Neel Jivani.🧔‍♂️
-
-• 22, web developer.
-
-![ProgrammerCycleGIF](https://user-images.githubusercontent.com/53113741/209103074-3ffab3db-14f2-4bd4-9ee1-032b5b290a70.gif)
-
-
-• 👨‍💻 I’m currently working on <b> ReactJS, NodeJS, ExpressJS, MongoDB, CSS, HTML, Bootstrap, SCSS, Firebase. </b>  
-
-• 🌱 I’m currently learning <b> threejs, spline, nextjs.</b>
-
-• 👯 I’m looking to collaborate on web development.
-
-• 💬 Ask me about anything
-
-• 🧑‍💻Want to connect 📧 :- <a href='https://www.linkedin.com/in/neel-jivani-89b9a8148/'>LinkedIn</a>
-
+## Hey 👋, This is Neel Jivani.
+[![Gmail Badge](https://img.shields.io/badge/-neeljivani26@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:neeljivani26@gmail.com)](mailto:neeljivani26@gmail.com) 
+ [![Linkedin Badge](https://img.shields.io/badge/-neeljivani-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neel-jivani-89b9a8148/)](https://www.linkedin.com/in/neel-jivani-89b9a8148/)  [![Github Badge](https://img.shields.io/badge/-neeljivani-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Neel2603/)](https://www.github.com/Neel2603/)  [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://raviagheda.github.io//)](https://raviagheda.github.io//) 
+<p align='left'>
+  I'm a MERN Stack Web Developer
+  
+  ![ProgrammerCycleGIF](https://user-images.githubusercontent.com/53113741/209103074-3ffab3db-14f2-4bd4-9ee1-032b5b290a70.gif)
+  
+  - 🔭 I’m currently working on <b> ReactJS, NodeJS, ExpressJS, MongoDB, CSS, HTML, Bootstrap, SCSS, Firebase. </b> 
+  - 🌱 I’m currently learning <b> threejs, spline, nextjs, veujs.</b>
+  - 👯 I’m looking to collaborate on web development.
+  - 📫 How to reach me: <a href='https://www.linkedin.com/in/neel-jivani-89b9a8148/'>LinkedIn</a> or <a href="neeljivani26@gmail.com">Gmail</a>
+  - ⚡ Fun fact: I love to listen music while coding! 
+  
 
 ![1297046_code_compilator_css_design_sass_icon](https://user-images.githubusercontent.com/53113741/209101392-9655b106-c016-4ae6-968d-6a28e30a4f02.png)
 ![317756_badge_css_css3_achievement_award_icon](https://user-images.githubusercontent.com/53113741/209101395-0aff894c-cca8-45d7-8d60-0f99f1a89a91.png)
